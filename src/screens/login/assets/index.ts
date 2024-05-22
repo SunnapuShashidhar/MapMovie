@@ -1,0 +1,1 @@
+export const LoginAnimation=require("./loginInAnimation.mp4")
