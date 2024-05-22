@@ -1,3 +1,7 @@
+#### this is the user name and password of for this application
+## username: 'shashidhar'
+## password: 'password@123'
+
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Getting Started
